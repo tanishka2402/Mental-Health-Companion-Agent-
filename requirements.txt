@@ -1,0 +1,10 @@
+langchain
+openai
+python-dotenv
+google-search-results
+langchain_community
+chromadb
+faiss-cpu
+streamlit
+streamlit-authenticator
+bcrypt
