@@ -33,7 +33,7 @@ agent = create_react_agent(
 
 
 # Ask the user for a question
-user_question = input("What question do you want to ask the agent? ")
+user_question = "What is the capital of France?"
 
 inputs = {"messages": [{"role": "user", "content": user_question}]}
 try:
